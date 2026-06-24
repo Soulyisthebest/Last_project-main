@@ -1,0 +1,6 @@
+{
+  "name": "Spain Study Portal",
+  "description": "bilingual interactive preparation portal for Arab students aspiring to study, live, learn Spanish, and work in Spain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

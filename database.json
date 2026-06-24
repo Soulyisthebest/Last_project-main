@@ -1,0 +1,51 @@
+{
+  "students": [],
+  "communityMessages": [],
+  "customMetrics": {
+    "totalPageViews": 0,
+    "totalVisits": 0,
+    "avgSessionSeconds": 0,
+    "bounceRatePercent": 0
+  },
+  "alerts": [],
+  "teachers": [
+    {
+      "id": "teach_1",
+      "name": "Mónica Ruiz Castro",
+      "subject": "Español A1 - B2 (Comprensión y Gramática)",
+      "email": "monica.ruiz@espana-study.com",
+      "bio": "Profesora nativa de Madrid con más de 8 años de experiencia preparando a alumnos marroquíes y argelinos para integrarse en FP y universidades en España. Experta en pedagogía CEFR.",
+      "phone": "+34 612 345 678",
+      "photoUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200",
+      "rating": 5
+    },
+    {
+      "id": "teach_2",
+      "name": "Yassine El Amrani",
+      "subject": "Preparación PCE Selectividad (Matemáticas y Física)",
+      "email": "yassine.amrani@espana-study.com",
+      "bio": "Doctor por la Universidad de Granada, especialista en guiar a estudiantes de Marruecos y Argelia para superar las pruebas UNEDasiss con máximas calificaciones en ciencias y homologación rápida.",
+      "phone": "+34 688 123 456",
+      "photoUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200",
+      "rating": 5
+    },
+    {
+      "id": "teach_3",
+      "name": "Prof. Alberto Sanz",
+      "subject": "Español Técnico para FP (Informática y Sanidad)",
+      "email": "alberto.sanz@espana-study.com",
+      "bio": "Especialista en enseñanza de terminología técnica para alumnos marroquíes y procedencias árabes cursando ciclos de Grado Superior (DAW, DAM, Higiene Bucodental o Dirección de Cocina).",
+      "phone": "+34 633 987 654",
+      "photoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200",
+      "rating": 4.8
+    }
+  ],
+  "admins": [
+    {
+      "email": "soullis8@gmail.com",
+      "password": "Sullivanem123_",
+      "role": "master",
+      "name": "Soulaymane"
+    }
+  ]
+}
